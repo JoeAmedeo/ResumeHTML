@@ -1,0 +1,88 @@
+#top {
+    background-color: #ffffff;
+    max-width : 10000px;
+    height: 60px;
+}
+
+#experience {
+    max-width: 100px;
+    
+}
+
+#name {
+    font-size :40px;
+    text-align : left;
+    display: inline;
+}
+
+#info {
+    font-size: 10px;
+    text-align: right;
+    float: right;
+    
+}
+
+
+
+#Skills {
+    background-color: #fffff0;
+}
+
+#SkillsText {
+    background-color: #fffff0;
+}
+
+#Experience {
+    background-color: #fffff0;
+}
+
+#ExperienceText{
+    background-color: #fffff0;
+}
+
+#Education{
+    background-color: #fffff0;
+}
+
+#EducationText{
+    background-color: #fffff0;
+}
+
+#parent {
+    display: flex;
+    width: calc(100%);
+}
+
+.LeftBoxes {
+    width: 250px;
+    height: 300px;
+    font-size: 40px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.RightBoxes {
+    flex: 1;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+#About{
+    background-color: #fffff0;
+}
+
+
+div {
+    font-family: serif;
+    border-radius : 8px;
+}
+
+body {
+    background-color: #666666;
+}
+
+p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
